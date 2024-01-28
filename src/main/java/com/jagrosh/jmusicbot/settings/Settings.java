@@ -1,5 +1,4 @@
 /*
- * Copyright 2016 John Grosh <john.a.grosh@gmail.com>.
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -23,10 +22,7 @@ import net.dv8tion.jda.api.entities.Role;
 import net.dv8tion.jda.api.entities.TextChannel;
 import net.dv8tion.jda.api.entities.VoiceChannel;
 
-/**
- *
- * @author John Grosh <john.a.grosh@gmail.com>
- */
+
 public class Settings implements GuildSettingsProvider
 {
     private final SettingsManager manager;

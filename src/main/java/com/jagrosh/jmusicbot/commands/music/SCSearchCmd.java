@@ -19,7 +19,7 @@ import com.jagrosh.jmusicbot.Bot;
 
 /**
  *
- * @author John Grosh <john.a.grosh@gmail.com>
+ * @author Jacob Jiang (Lixing) jacobjj2008@gmail.com
  */
 public class SCSearchCmd extends SearchCmd 
 {

@@ -1,5 +1,4 @@
 /*
- * Copyright 2018 John Grosh (jagrosh)
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -20,10 +19,6 @@ import javax.swing.JOptionPane;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-/**
- *
- * @author John Grosh (john.a.grosh@gmail.com)
- */
 public class Prompt
 {
     private final String title;

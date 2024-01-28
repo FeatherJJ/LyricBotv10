@@ -37,7 +37,7 @@ import net.dv8tion.jda.api.exceptions.PermissionException;
 
 /**
  *
- * @author John Grosh <john.a.grosh@gmail.com>
+ * @author Jacob Jiang (Lixing) jacobjj2008@gmail.com
  */
 public class PlayCmd extends MusicCommand
 {

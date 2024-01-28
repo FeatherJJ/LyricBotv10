@@ -23,7 +23,7 @@ import com.jagrosh.jmusicbot.commands.MusicCommand;
 
 /**
  *
- * @author John Grosh <john.a.grosh@gmail.com>
+ * @author Jacob Jiang (Lixing) jacobjj2008@gmail.com
  */
 public class SkipCmd extends MusicCommand 
 {

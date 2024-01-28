@@ -1,5 +1,4 @@
 /*
- * Copyright 2018 John Grosh <john.a.grosh@gmail.com>.
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -25,10 +24,7 @@ import org.json.JSONException;
 import org.json.JSONObject;
 import org.slf4j.LoggerFactory;
 
-/**
- *
- * @author John Grosh (john.a.grosh@gmail.com)
- */
+
 public class SettingsManager implements GuildSettingsManager<Settings>
 {
     private final static double SKIP_RATIO = .55;

@@ -1,5 +1,4 @@
 /*
- * Copyright 2018 John Grosh (jagrosh)
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -26,11 +25,7 @@ import java.nio.file.Path;
 import net.dv8tion.jda.api.OnlineStatus;
 import net.dv8tion.jda.api.entities.Activity;
 
-/**
- * 
- * 
- * @author John Grosh (jagrosh)
- */
+
 public class BotConfig
 {
     private final Prompt prompt;

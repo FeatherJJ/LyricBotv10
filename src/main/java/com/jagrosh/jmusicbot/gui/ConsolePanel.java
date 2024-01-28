@@ -1,5 +1,4 @@
 /*
- * Copyright 2017 John Grosh <john.a.grosh@gmail.com>.
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -22,10 +21,7 @@ import javax.swing.JPanel;
 import javax.swing.JScrollPane;
 import javax.swing.JTextArea;
 
-/**
- *
- * @author John Grosh <john.a.grosh@gmail.com>
- */
+
 public class ConsolePanel extends JPanel {
     
     public ConsolePanel()

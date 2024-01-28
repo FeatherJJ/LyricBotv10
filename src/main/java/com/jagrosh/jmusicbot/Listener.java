@@ -1,5 +1,4 @@
 /*
- * Copyright 2016 John Grosh <john.a.grosh@gmail.com>.
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -31,10 +30,7 @@ import org.jetbrains.annotations.NotNull;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-/**
- *
- * @author John Grosh (john.a.grosh@gmail.com)
- */
+
 public class Listener extends ListenerAdapter
 {
     private final Bot bot;

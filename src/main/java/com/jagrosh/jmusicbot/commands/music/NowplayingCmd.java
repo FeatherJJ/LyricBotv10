@@ -24,7 +24,7 @@ import net.dv8tion.jda.api.entities.Message;
 
 /**
  *
- * @author John Grosh <john.a.grosh@gmail.com>
+ * @author Jacob Jiang (Lixing) jacobjj2008@gmail.com
  */
 public class NowplayingCmd extends MusicCommand 
 {

@@ -15,10 +15,6 @@
  */
 package com.jagrosh.jmusicbot.settings;
 
-/**
- *
- * @author Michaili K
- */
 public enum RepeatMode
 {
     OFF(null, "Off"),

@@ -1,5 +1,4 @@
 /*
- * Copyright 2017 John Grosh <john.a.grosh@gmail.com>.
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -20,10 +19,7 @@ import java.io.*;
 import java.util.*;
 import java.util.List;
 import javax.swing.*;
-/**
- *
- * @author Lawrence Dol
- */
+
 public class TextAreaOutputStream extends OutputStream {
 
 // *************************************************************************************************

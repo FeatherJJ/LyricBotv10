@@ -29,11 +29,6 @@ import java.util.Objects;
 import net.dv8tion.jda.api.JDA;
 import net.dv8tion.jda.api.entities.Activity;
 import net.dv8tion.jda.api.entities.Guild;
-
-/**
- *
- * @author John Grosh <john.a.grosh@gmail.com>
- */
 public class Bot
 {
     private final EventWaiter waiter;
