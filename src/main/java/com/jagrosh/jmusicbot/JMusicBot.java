@@ -101,6 +101,7 @@ public class JMusicBot
                 .addCommands(aboutCommand,
                         new PingCommand(),
                         new SettingsCmd(bot),
+                        new KaraokeCmd(bot),
                         
                         new LyricsCmd(bot),
                         new NowplayingCmd(bot),
